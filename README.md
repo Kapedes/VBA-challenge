@@ -1,4 +1,6 @@
 # VBA-challenge
+Theos Demetriou
+
 Using VBA to analyse stock codes
 
 Calculating the following attributes / measures:
