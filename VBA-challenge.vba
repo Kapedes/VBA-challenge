@@ -191,7 +191,7 @@ Range("Q4").Value = maxVolume
       If_Not_Found)
   On Error GoTo 0
   
-'Print the values in their
+'Print the values in their destinations
 Range("P2").Value = Result
 Range("P3").Value = Result2
 Range("P4").Value = Result3
