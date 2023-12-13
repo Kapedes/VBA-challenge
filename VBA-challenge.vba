@@ -195,8 +195,9 @@ Range("Q4").Value = maxVolume
 Range("P2").Value = Result
 Range("P3").Value = Result2
 Range("P4").Value = Result3
-  
-  
+
+'Autofit the column width
+Columns("A:L").Autofit  
   
   
 Next j
